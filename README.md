@@ -1,4 +1,4 @@
-# Hey there, I'm Anas Khan 👋
+# Hey there 👋
 
 ### Principal Software Engineer · Full-Stack Engineer · Cloud & AI Enthusiast
 
